@@ -25,19 +25,23 @@ My current **Junior stack**:
 ### 🚀 Featured Projects  
 
 Here are some of the tools & apps I’ve built:  
+- **[AutoBizOps](https://github.com/katiapek/AutoBizOps-demo)** *(in progress)*  
+  _Full-stack app automating business workflows (Python, Flask, Celery, Redis, Bootstrap)._
+
+- **[OurCompanyBlog](https://github.com/katiapek/CompanyBlog)**
+  _Full-stack app - Blog/Forum for A Company Employees_
+
+- **[Compounding Simulator](https://compounding-simulator.clocktrades.com/)**  
+  _Interactive simulator for long-term growth, trading compounding, and wealth scenarios._  
+  [Repo →](https://github.com/katiapek/compounding-simulator)
+
+- **[Trading Strategy Performance Visualizer](https://performance-visualizer.clocktrades.com/)**  
+  _Streamlit app to model risk of ruin, drawdowns, and time to target._  
 
 - **[Expectancy & Kelly Calculator](https://expectancy-and-kelly-calculator.clocktrades.com/)**  
   _Streamlit app for traders to calculate expectancy and optimal position sizing._  
 
-- **[Trading Strategy Performance Visualizer](https://performance-visualizer.clocktrades.com/)**  
-  _Python + Streamlit app to model risk of ruin, drawdowns, and time to target._  
 
-- **[Compounding Simulator](https://compounding-simulator.clocktrades.com/)**  
-  _Interactive simulator for long-term growth, trading compounding, and wealth scenarios._  
-  [Repo →](https://github.com/katiapek/compounding-simulator)  
-
-- **[AutoBizOps](https://github.com/katiapek/autobizops-demo)** *(in progress)*  
-  _Full-stack app automating business workflows (Python, Flask, Celery, Redis, Bootstrap)._  
 
 ---
 
