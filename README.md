@@ -33,7 +33,7 @@ Here are some of the tools & apps I’ve built:
 
 - **[Compounding Simulator](https://compounding-simulator.clocktrades.com/)**  
   _Interactive simulator for long-term growth, trading compounding, and wealth scenarios._  
-  [Repo →](https://github.com/katiapek/compounding-simulator)
+  [Repo →](https://github.com/katiapek/CompoundingSimulator)
 
 - **[Trading Strategy Performance Visualizer](https://performance-visualizer.clocktrades.com/)**  
   _Streamlit app to model risk of ruin, drawdowns, and time to target._  
