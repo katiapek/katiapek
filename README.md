@@ -22,7 +22,19 @@ My current **Junior stack**:
 
 ---
 
-### 🚀 Featured Projects  
+## Learning Roadmap
+
+I’m actively expanding my skills through a structured path that balances **practical coding projects** with **new technologies**:
+
+- 🔹 **Strengthen the Basics** → Deeper mastery of Python, SQL, Flask/Django, Docker, Git  
+- 🔹 **Machine Learning** → TensorFlow/Keras, building and training practical ML models  
+- 🔹 **Big Data** → PySpark for distributed data processing and analytics  
+- 🔹 **DevOps & Automation** → CI/CD pipelines, automated testing, containerization, Terraform for infrastructure as code  
+- 🔹 **Portfolio Projects** → Applying each new skill in open-source apps and tools shared here on GitHub  
+
+---
+
+### Featured Projects  
 
 Here are some of the tools & apps I’ve built:  
 - **[AutoBizOps](https://github.com/katiapek/AutoBizOps-demo)** *(in progress)*  
