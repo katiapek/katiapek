@@ -10,9 +10,9 @@ Now I apply the same rigor to **Python development, data analysis, and trading f
 ### About Me
 
 My current **Junior stack**:  
-**Python / Flask / SQLAlchemy (PostgreSQL) / Celery with Redis / Bootstrap / Streamlit / Docker / Git**  
+**Python / Flask / FastAPI / SQLAlchemy (PostgreSQL) / Celery with Redis / Bootstrap / Streamlit / Docker / Git / AWS (EC2, ECR, ECS, S3, Beanstalk)**  
 
-- 🔭 I’m currently working on **AutoBizOps** — a full-stack app automating business operations.  
+- 🔭 I’m currently working on **AutoBizOps**  and **BiasPredictor**
 - 🌱 I’m learning by **building as much as I can around my stack** and exploring DevOps through **TechWorld with Nana**.  
 - 👯 I’m looking to collaborate on projects with **great people onboard**.  
 - 🤔 I’m looking for help with **practice, code reviews, and sharpening my developer workflow**.  
@@ -36,7 +36,10 @@ I’m actively expanding my skills through a structured path that balances **pra
 
 ### Featured Projects  
 
-Here are some of the tools & apps I’ve built:  
+Here are some of the tools & apps I’ve built:
+- **[Bias_Predictor](https://github.com/katiapek/BiasPredictor-demo)** *(in progress)*  
+  _Full-stack app training LLM model on AWS EC2 CUDA instance with FastAPI backend and React front-end._
+
 - **[AutoBizOps](https://github.com/katiapek/AutoBizOps-demo)** *(in progress)*  
   _Full-stack app automating business workflows (Python, Flask, Celery, Redis, Bootstrap)._
 
@@ -58,7 +61,6 @@ Here are some of the tools & apps I’ve built:
 ---
 
 ### Find Me
-- [ClockTrades.com](https://clocktrades.com) - my next personal project - started 1y ago in Dash, I plan to rewrite it completely in Flask  
 - [Markets & Manners Newsletter](https://marketsmanners.com) - my trading and investing blog where I test SEO algorithms with semi-automated content
 - LinkedIn](#) *(soon)* | [GitHub](https://github.com/katiapek)  
 
