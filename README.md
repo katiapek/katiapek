@@ -1,66 +1,47 @@
-# 👋 Hi, I'm Kamil Kałużny  
+# Hi, I'm Kamil Kaluzny
 
-Python Developer | ex. Nuclear Power Plant Engineer  
+**Python Developer | Data Engineering & Quantitative Analytics**
 
-I bring **9+ years of engineering experience** from the construction and commissioning of the **Olkiluoto 3 EPR Nuclear Power Plant** — from **electrical supervision** through **method engineering** to **I&C commissioning**.  
-Now I apply the same rigor to **Python development, data analysis, and trading futures**.  
-
----
-
-### About Me
-
-My current **Junior stack**:  
-**Python / Flask / FastAPI / SQLAlchemy (PostgreSQL) / Celery with Redis / Bootstrap / Streamlit / Docker / Git / AWS (EC2, ECR, ECS, S3, Beanstalk)**  
-
-- 🔭 I’m currently working on **AutoBizOps**  and **BiasPredictor**
-- 🌱 I’m learning by **building as much as I can around my stack** and exploring DevOps through **TechWorld with Nana**.  
-- 👯 I’m looking to collaborate on projects with **great people onboard**.  
-- 🤔 I’m looking for help with **practice, code reviews, and sharpening my developer workflow**.  
-- 💬 Ask me about **Python, data analysis, trading futures, and engineering workflows**.  
-- 📫 Reach me at **katiapek@gmail.com**.  
-- ⚡ Fun fact: At **12 years old** I built my first PC from chosen parts and installed Linux from scratch. At **14**, I coded my punk rock band’s first HTML website.  
+9+ years of engineering experience from the construction and commissioning of the **Olkiluoto 3 EPR Nuclear Power Plant** — from electrical supervision through team leadership (16 engineers, 150+ field staff) to I&C commissioning. Now I apply the same rigor to **data pipelines, quantitative analysis, and backend development**.
 
 ---
 
-## Learning Roadmap
+## What I'm Building
 
-I’m actively expanding my skills through a structured path that balances **practical coding projects** with **new technologies**:
+**Financial Analytics Terminal** — a quantitative analytics platform for futures and options markets.
+- Automated data pipeline ingesting CFTC COT positioning data, CME futures prices, and options implied volatility
+- Multi-factor regime classification engine (seasonality + positioning + volatility + CTA trend signals)
+- Statistical computation layer: rolling z-scores, percentile ranks, 20/50/100/200 DMAs, ATR, Donchian channels
+- Publication-quality branded chart system with dual-resolution output
+- Comprehensive pytest suite covering data transformations, statistical calculations, and regime logic
+- **Stack:** Python, pandas, NumPy, SciPy, matplotlib, yfinance, CFTC APIs
 
-- 🔹 **Strengthen the Basics** → Deeper mastery of Python, SQL, Flask/Django, Docker, Git  
-- 🔹 **Machine Learning** → TensorFlow/Keras, building and training practical ML models  
-- 🔹 **Big Data** → PySpark for distributed data processing and analytics  
-- 🔹 **DevOps & Automation** → CI/CD pipelines, automated testing, containerization, Terraform for infrastructure as code  
-- 🔹 **Portfolio Projects** → Applying each new skill in open-source apps and tools shared here on GitHub  
+## Other Projects
 
----
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [BiasPredictor](https://github.com/katiapek/BiasPredictor-demo) | ML-powered market research app training models on AWS EC2 GPU instances | FastAPI, React, SQLAlchemy, AWS |
+| [AutoBizOps](https://github.com/katiapek/AutoBizOps-demo) | Business workflow automation with background task queues | Flask, Celery, Redis, Bootstrap |
+| [CompoundingSimulator](https://github.com/katiapek/CompoundingSimulator) | Interactive simulator for long-term growth and wealth scenarios | Streamlit, Python |
 
-### Featured Projects  
+## Stack
 
-Here are some of the tools & apps I’ve built:
-- **[Bias_Predictor](https://github.com/katiapek/BiasPredictor-demo)** *(in progress)*  
-  _Full-stack app training LLM model on AWS EC2 CUDA instance with FastAPI backend and React front-end._
+```
+Python  |  pandas  |  NumPy  |  SciPy  |  PySpark  |  SQL  |  matplotlib  |  seaborn
+FastAPI  |  Flask  |  SQLAlchemy  |  Streamlit  |  Celery  |  Redis
+Docker  |  AWS (EC2, S3)  |  Git  |  GitHub Actions  |  Linux
+```
 
-- **[AutoBizOps](https://github.com/katiapek/AutoBizOps-demo)** *(in progress)*  
-  _Full-stack app automating business workflows (Python, Flask, Celery, Redis, Bootstrap)._
+## Certifications
 
-- **[OurCompanyBlog](https://github.com/katiapek/CompanyBlog)**
-  _Full-stack app - Blog/Forum for A Company Employees_
+- **Data Scientist Professional** — DataCamp (2025)
+- **Data Scientist Associate** — DataCamp (2025)
+- **Databricks Fundamentals** — DataCamp (2026)
+- **PySpark Fundamentals** — DataCamp (2026)
+- 100 Days of Code: Python Pro Bootcamp — Dr. Angela Yu
+- Python and Flask Bootcamp — Jose Portilla / Pierian Training
 
-- **[Compounding Simulator](https://compounding-simulator.clocktrades.com/)**  
-  _Interactive simulator for long-term growth, trading compounding, and wealth scenarios._  
-  [Repo →](https://github.com/katiapek/CompoundingSimulator)
+## Find Me
 
-- **[Trading Strategy Performance Visualizer](https://performance-visualizer.clocktrades.com/)**  
-  _Streamlit app to model risk of ruin, drawdowns, and time to target._  
-
-- **[Expectancy & Kelly Calculator](https://expectancy-and-kelly-calculator.clocktrades.com/)**  
-  _Streamlit app for traders to calculate expectancy and optimal position sizing._  
-
-
-
----
-
-### Find Me
-- [Markets & Manners Newsletter](https://marketsmanners.com) - my trading and investing blog where I test SEO algorithms with semi-automated content
-- LinkedIn](#) *(soon)* | [GitHub](https://github.com/katiapek)  
-
+- [LinkedIn](https://www.linkedin.com/in/kamilkaluzny/)
+- kaluznykamil@gmail.com
