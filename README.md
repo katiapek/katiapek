@@ -8,7 +8,7 @@
 
 ## What I'm Building
 
-**Financial Analytics Terminal** — a quantitative analytics platform for futures and options markets.
+**[Financial Analysis Terminal](https://github.com/katiapek/financial-analysis-terminal)** — a quantitative analytics platform for futures and options markets.
 - Automated data pipeline ingesting CFTC COT positioning data, CME futures prices, and options implied volatility
 - Multi-factor regime classification engine (seasonality + positioning + volatility + CTA trend signals)
 - Statistical computation layer: rolling z-scores, percentile ranks, 20/50/100/200 DMAs, ATR, Donchian channels
@@ -16,20 +16,24 @@
 - Comprehensive pytest suite covering data transformations, statistical calculations, and regime logic
 - **Stack:** Python, pandas, NumPy, SciPy, matplotlib, yfinance, CFTC APIs
 
-## Other Projects
+## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [BiasPredictor](https://github.com/katiapek/BiasPredictor-demo) | ML-powered market research app training models on AWS EC2 GPU instances | FastAPI, React, SQLAlchemy, AWS |
-| [AutoBizOps](https://github.com/katiapek/AutoBizOps-demo) | Business workflow automation with background task queues | Flask, Celery, Redis, Bootstrap |
-| [CompoundingSimulator](https://github.com/katiapek/CompoundingSimulator) | Interactive simulator for long-term growth and wealth scenarios | Streamlit, Python |
+| Project | Description | Stack | Live Demo |
+|---------|-------------|-------|-----------|
+| [Markets Dashboard](https://github.com/katiapek/markets-dashboard) | Interactive futures dashboard — COT reports, OHLC charts, seasonality overlays, day-trading statistics, cross-market correlations | Dash, Plotly, PostgreSQL | |
+| [Time Series Bias Predictor](https://github.com/katiapek/ts-bias-predictor) | ML-powered market research app — ct-xLSTM-TS model trained on AWS EC2 GPU instances | FastAPI, PyTorch, PostgreSQL, AWS, Docker | |
+| [AutoBizOps](https://github.com/katiapek/autobizops) | Business workflow automation with background task queues and AI-powered content generation | Flask, Celery, Redis, PostgreSQL, Docker | |
+| [Expectancy Calculator](https://github.com/katiapek/expectancy-calculator) | Trading strategy expectancy and Kelly Criterion calculator with interactive analysis | Streamlit, Plotly | [Live](https://expectancy-calculator.marketsmanners.com/) |
+| [Performance Visualizer](https://github.com/katiapek/performance-visualizer) | Monte Carlo simulation — 100 possible futures for any trading strategy | Streamlit, Plotly, pandas | [Live](https://performance-visualizer.marketsmanners.com/) |
+| [Compounding Simulator](https://github.com/katiapek/compounding-simulator) | Long-term growth simulation with compounding, risk management, and drawdown analysis | Streamlit, Python | [Live](https://compounding-simulator.marketsmanners.com/) |
 
 ## Stack
 
 ```
 Python  |  pandas  |  NumPy  |  SciPy  |  PySpark  |  SQL  |  matplotlib  |  seaborn
 FastAPI  |  Flask  |  SQLAlchemy  |  Streamlit  |  Celery  |  Redis
-Docker  |  AWS (EC2, S3)  |  Git  |  GitHub Actions  |  Linux
+Dash  |  Plotly  |  PyTorch  |  Alembic  |  PostgreSQL
+Docker  |  AWS (EC2, S3, SES, Elastic Beanstalk)  |  Git  |  GitHub Actions  |  Linux
 ```
 
 ## Certifications
